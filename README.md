@@ -4,9 +4,9 @@ Welcome to my research portfolio. This repository contains selected academic and
 ## Contents
 
 - 📄 Thesis: Analysis of Food Safety using HPLC Methods (PDF)
-- 🧪 Final Project: Mineral Profiling with MP-AES (PDF & PPT)
-- 🗃️ Presentations: Key academic talks and poster sessions
-- 📚 Reports: Summaries of key research papers and experiments
+- 🧪 Analytical Project: Mineral Profiling with MP-AES (PDF & PPT)
+- 🗃️ Presentations: Key academic talks and poster sessions.
+- 📚 Reports: Summaries of key research papers, product development and experiments.
 
 ## About Me
 
